@@ -1,12 +1,87 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\pet-care-website-template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "PetLover.Mvc\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAALsAAAAAAAAAAAAYwNkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:52:43.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\pet-care-website-template\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\pet-care-website-template\\index.html",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\pet-care-website-template\\index.html",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\pet-care-website-template\\index.html",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-23T04:52:02.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "PetLover.Mvc\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAO4BAAAAAAAAAAAQwA4CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:51:42.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PetLover.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:20:52.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
