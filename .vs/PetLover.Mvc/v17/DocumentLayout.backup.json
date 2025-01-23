@@ -3,19 +3,154 @@
   "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\pet-care-website-template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C9455-0D42-4F8D-BDD1-67E82E420BDF}|PetLover.Data\\PetLover.Data.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C9455-0D42-4F8D-BDD1-67E82E420BDF}|PetLover.Data\\PetLover.Data.csproj|solutionrelative:petlover.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.bl\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|solutionrelative:petlover.bl\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.bl\\dtos\\creatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|solutionrelative:petlover.bl\\dtos\\creatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.bl\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|solutionrelative:petlover.bl\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.bl\\profiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|solutionrelative:petlover.bl\\profiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9D7AF2-0DE6-48FE-84B2-393D9A6E2DDE}|PetLover.Core\\PetLover.Core.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.core\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9D7AF2-0DE6-48FE-84B2-393D9A6E2DDE}|PetLover.Core\\PetLover.Core.csproj|solutionrelative:petlover.core\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.bl\\services\\implementation\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|solutionrelative:petlover.bl\\services\\implementation\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C9455-0D42-4F8D-BDD1-67E82E420BDF}|PetLover.Data\\PetLover.Data.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.data\\repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C9455-0D42-4F8D-BDD1-67E82E420BDF}|PetLover.Data\\PetLover.Data.csproj|solutionrelative:petlover.data\\repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C9455-0D42-4F8D-BDD1-67E82E420BDF}|PetLover.Data\\PetLover.Data.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.data\\repositories\\implementation\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C9455-0D42-4F8D-BDD1-67E82E420BDF}|PetLover.Data\\PetLover.Data.csproj|solutionrelative:petlover.data\\repositories\\implementation\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\areas\\admin\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\areas\\admin\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\areas\\admin\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\areas\\admin\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.bl\\profiles\\memberprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|solutionrelative:petlover.bl\\profiles\\memberprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\startbootstrap-sb-admin-2-gh-pages\\tables.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.bl\\filemanager\\imgmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|solutionrelative:petlover.bl\\filemanager\\imgmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.bl\\services\\abstraction\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|solutionrelative:petlover.bl\\services\\abstraction\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.bl\\dtos\\updatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF620BCD-6F67-44F1-8D2C-B483C17EDE95}|PetLover.Bl\\PetLover.Bl.csproj|solutionrelative:petlover.bl\\dtos\\updatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9D7AF2-0DE6-48FE-84B2-393D9A6E2DDE}|PetLover.Core\\PetLover.Core.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.core\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9D7AF2-0DE6-48FE-84B2-393D9A6E2DDE}|PetLover.Core\\PetLover.Core.csproj|solutionrelative:petlover.core\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C9455-0D42-4F8D-BDD1-67E82E420BDF}|PetLover.Data\\PetLover.Data.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.data\\repositories\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C9455-0D42-4F8D-BDD1-67E82E420BDF}|PetLover.Data\\PetLover.Data.csproj|solutionrelative:petlover.data\\repositories\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C9455-0D42-4F8D-BDD1-67E82E420BDF}|PetLover.Data\\PetLover.Data.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.data\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C9455-0D42-4F8D-BDD1-67E82E420BDF}|PetLover.Data\\PetLover.Data.csproj|solutionrelative:petlover.data\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Migrations\\20250123052716_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetLover.Data\\Migrations\\20250123052716_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Migrations\\20250123052601_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetLover.Data\\Migrations\\20250123052601_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Migrations\\20250123052431_Initial-Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetLover.Data\\Migrations\\20250123052431_Initial-Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9D7AF2-0DE6-48FE-84B2-393D9A6E2DDE}|PetLover.Core\\PetLover.Core.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9D7AF2-0DE6-48FE-84B2-393D9A6E2DDE}|PetLover.Core\\PetLover.Core.csproj|solutionrelative:petlover.core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9D7AF2-0DE6-48FE-84B2-393D9A6E2DDE}|PetLover.Core\\PetLover.Core.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.core\\petlover.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA9D7AF2-0DE6-48FE-84B2-393D9A6E2DDE}|PetLover.Core\\PetLover.Core.csproj|solutionrelative:petlover.core\\petlover.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\petlover.mvc\\petlover.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{554583AA-48B8-4ECB-9D4D-F4BD7595D6B4}|PetLover.Mvc\\PetLover.Mvc.csproj|solutionrelative:petlover.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\pet-care-website-template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,58 +160,500 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PetLover.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "PetLover.Mvc\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAALsAAAAAAAAAAAAYwNkAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "PetLover.Mvc\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T04:52:43.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\pet-care-website-template\\index.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\pet-care-website-template\\index.html",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\pet-care-website-template\\index.html",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\pet-care-website-template\\index.html",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-23T04:52:02.558Z",
+              "WhenOpened": "2025-01-23T06:51:05.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "PetLover.Mvc\\Areas\\Admin\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:50:41.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "RelativeToolTip": "PetLover.Mvc\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:20:54.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MemberProfile.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Profiles\\MemberProfile.cs",
+              "RelativeDocumentMoniker": "PetLover.Bl\\Profiles\\MemberProfile.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Profiles\\MemberProfile.cs",
+              "RelativeToolTip": "PetLover.Bl\\Profiles\\MemberProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:51:24.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateMemberDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Dtos\\CreateMemberDto.cs",
+              "RelativeDocumentMoniker": "PetLover.Bl\\Dtos\\CreateMemberDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Dtos\\CreateMemberDto.cs",
+              "RelativeToolTip": "PetLover.Bl\\Dtos\\CreateMemberDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:41:01.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Program.cs",
+              "RelativeToolTip": "PetLover.Mvc\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:17:54.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Areas\\Admin\\Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "PetLover.Mvc\\Areas\\Admin\\Views\\Member\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:15:10.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PetLover.Data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "PetLover.Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:12:26.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PetLover.Mvc\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "PetLover.Mvc\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAO4BAAAAAAAAAAAQwA4CAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PetLover.Mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAANwAAAAAAAAAAAAAAGYBAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-23T04:51:42.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PetLover.Mvc\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Controllers\\HomeController.cs",
               "RelativeToolTip": "PetLover.Mvc\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T04:20:52.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Dtos\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "PetLover.Bl\\Dtos\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Dtos\\CreateUserDto.cs",
+              "RelativeToolTip": "PetLover.Bl\\Dtos\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:51:48.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PetLover.Mvc\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T07:17:54.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Dtos\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "PetLover.Bl\\Dtos\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Dtos\\LoginUserDto.cs",
+              "RelativeToolTip": "PetLover.Bl\\Dtos\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:18:28.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "PetLover.Mvc\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA0wDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:03:22.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Profiles\\AppUserProfile.cs",
+              "RelativeDocumentMoniker": "PetLover.Bl\\Profiles\\AppUserProfile.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Profiles\\AppUserProfile.cs",
+              "RelativeToolTip": "PetLover.Bl\\Profiles\\AppUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:54:43.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Repositories\\Implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "PetLover.Data\\Repositories\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Repositories\\Implementation\\GenericRepository.cs",
+              "RelativeToolTip": "PetLover.Data\\Repositories\\Implementation\\GenericRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:31:51.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Core\\AppUser.cs",
+              "RelativeDocumentMoniker": "PetLover.Core\\AppUser.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Core\\AppUser.cs",
+              "RelativeToolTip": "PetLover.Core\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:08:58.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Services\\Implementation\\MemberService.cs",
+              "RelativeDocumentMoniker": "PetLover.Bl\\Services\\Implementation\\MemberService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Services\\Implementation\\MemberService.cs",
+              "RelativeToolTip": "PetLover.Bl\\Services\\Implementation\\MemberService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:46:21.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Repositories\\Implementation\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "PetLover.Data\\Repositories\\Implementation\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Repositories\\Implementation\\MemberRepository.cs",
+              "RelativeToolTip": "PetLover.Data\\Repositories\\Implementation\\MemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:37:28.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "PetLover.Mvc\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:03:29.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ImgMethod.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\FileManager\\ImgMethod.cs",
+              "RelativeDocumentMoniker": "PetLover.Bl\\FileManager\\ImgMethod.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\FileManager\\ImgMethod.cs",
+              "RelativeToolTip": "PetLover.Bl\\FileManager\\ImgMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:52:16.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "tables.html",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\startbootstrap-sb-admin-2-gh-pages\\tables.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\startbootstrap-sb-admin-2-gh-pages\\tables.html",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\startbootstrap-sb-admin-2-gh-pages\\tables.html",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\startbootstrap-sb-admin-2-gh-pages\\tables.html",
+              "ViewState": "AgIAALkBAAAAAAAAAAAAANgBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-23T06:01:42.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PetLover.Mvc\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:03:51.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PetLover.Mvc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:04:10.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PetLover.Mvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:04:31.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateMemberDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Dtos\\UpdateMemberDto.cs",
+              "RelativeDocumentMoniker": "PetLover.Bl\\Dtos\\UpdateMemberDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Dtos\\UpdateMemberDto.cs",
+              "RelativeToolTip": "PetLover.Bl\\Dtos\\UpdateMemberDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:41:20.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Services\\Abstraction\\IMemberService.cs",
+              "RelativeDocumentMoniker": "PetLover.Bl\\Services\\Abstraction\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Bl\\Services\\Abstraction\\IMemberService.cs",
+              "RelativeToolTip": "PetLover.Bl\\Services\\Abstraction\\IMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:39:01.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Repositories\\Interfaces\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "PetLover.Data\\Repositories\\Interfaces\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Repositories\\Interfaces\\IMemberRepository.cs",
+              "RelativeToolTip": "PetLover.Data\\Repositories\\Interfaces\\IMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:36:33.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "PetLover.Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "PetLover.Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:29:38.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250123052716_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Migrations\\20250123052716_Initial.cs",
+              "RelativeDocumentMoniker": "PetLover.Data\\Migrations\\20250123052716_Initial.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Migrations\\20250123052716_Initial.cs",
+              "RelativeToolTip": "PetLover.Data\\Migrations\\20250123052716_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:27:16.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Core\\Member.cs",
+              "RelativeDocumentMoniker": "PetLover.Core\\Member.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Core\\Member.cs",
+              "RelativeToolTip": "PetLover.Core\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:08:10.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250123052601_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Migrations\\20250123052601_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PetLover.Data\\Migrations\\20250123052601_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Migrations\\20250123052601_InitialCreate.cs",
+              "RelativeToolTip": "PetLover.Data\\Migrations\\20250123052601_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:26:01.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250123052431_Initial-Create.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Migrations\\20250123052431_Initial-Create.cs",
+              "RelativeDocumentMoniker": "PetLover.Data\\Migrations\\20250123052431_Initial-Create.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Data\\Migrations\\20250123052431_Initial-Create.cs",
+              "RelativeToolTip": "PetLover.Data\\Migrations\\20250123052431_Initial-Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:24:31.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\appsettings.json",
+              "RelativeToolTip": "PetLover.Mvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T05:10:37.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PetLover.Core",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Core\\PetLover.Core.csproj",
+              "RelativeDocumentMoniker": "PetLover.Core\\PetLover.Core.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Core\\PetLover.Core.csproj",
+              "RelativeToolTip": "PetLover.Core\\PetLover.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T05:06:10.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PetLover.Core\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Core\\BaseEntity.cs",
+              "RelativeToolTip": "PetLover.Core\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:06:41.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PetLover.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\PetLover.Mvc\\PetLover.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PetLover.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:52:43.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\pet-care-website-template\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\pet-care-website-template\\index.html",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\pet-care-website-template\\index.html",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\pet-care-website-template\\index.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAEBVwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-23T04:52:02.558Z",
               "EditorCaption": ""
             }
           ]

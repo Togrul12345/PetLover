@@ -1,0 +1,21 @@
+﻿@using PetLover.Bl.Dtos;
+@model CreateMemberDto;
+<form asp-action="Create" asp-controller="Member" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name">Name</label>
+        <input type="text" class="form-control" asp-for="Name">
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Profession">Profession</label>
+        <input type="text" class="form-control" asp-for="Profession">
+        <span class="text-danger" asp-validation-for="Profession"></span>
+    </div>
+    <div class="form-check">
+        <label class="form-check-label" asp-for="Img">Img</label>
+        <input class="form-control" asp-for="Img" type="file">
+        <span class="text-danger" asp-validation-for="Img"></span>
+      
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

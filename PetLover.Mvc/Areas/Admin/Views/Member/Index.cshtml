@@ -1,0 +1,39 @@
+﻿@using PetLover.Core;
+@model IEnumerable<Member>;
+
+
+    <a asp-action="Create" asp-controller="Member" class="btn btn-primary">Create</a>
+    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Profession</th>
+                <th>Img</th>
+                <th>Actions</th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Profession</td>
+                    <td> <img height="80px" width="130px" src="~/Imgs/@item.ImgUrl" /> </td>
+                    <td>
+                        <a asp-action="Update" class="btn btn-warning" asp-controller="Member" asp-route-id="@item.Id">Update</a>
+                        <form method="post" asp-route-id="@item.Id" asp-action="Delete" asp-controller="Member">
+                            <button type="submit" class=" btn btn-danger" >Delete</button>
+                        </form>
+                    </td>
+                
+                </tr>
+            }
+           
+
+        </tbody>
+    </table>
+
+               
+           

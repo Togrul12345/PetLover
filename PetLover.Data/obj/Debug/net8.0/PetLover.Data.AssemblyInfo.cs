@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetLover.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0abb5747b88a204436e77bbd205583b5c7ad884")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3429e4823035916240979b1db333c72aca13949d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetLover.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetLover.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

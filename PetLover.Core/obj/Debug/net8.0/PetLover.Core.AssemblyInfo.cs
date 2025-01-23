@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetLover.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb091c5686bcd3a25916b644efd08a7395887a90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3429e4823035916240979b1db333c72aca13949d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetLover.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetLover.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

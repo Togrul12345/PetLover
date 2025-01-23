@@ -1,0 +1,13 @@
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\bin\Debug\net8.0\PetLover.Core.deps.json
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\bin\Debug\net8.0\PetLover.Core.dll
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\bin\Debug\net8.0\PetLover.Core.pdb
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\obj\Debug\net8.0\PetLover.Core.csproj.AssemblyReference.cache
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\obj\Debug\net8.0\PetLover.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\obj\Debug\net8.0\PetLover.Core.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\obj\Debug\net8.0\PetLover.Core.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\obj\Debug\net8.0\PetLover.Core.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\obj\Debug\net8.0\PetLover.Core.sourcelink.json
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\obj\Debug\net8.0\PetLover.Core.dll
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\obj\Debug\net8.0\refint\PetLover.Core.dll
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\obj\Debug\net8.0\PetLover.Core.pdb
+C:\Users\I Novbe\source\repos\PetLover.Mvc\PetLover.Core\obj\Debug\net8.0\ref\PetLover.Core.dll

@@ -1,0 +1,17 @@
+﻿@using PetLover.Bl.Dtos;
+@model LoginUserDto;
+<form asp-action="Login" asp-controller="Account">
+    <div class="form-group">
+        <label asp-for="Email">Email address</label>
+        <input type="email" class="form-control" asp-for="Email">
+        <span class="text-danger" asp-validation-for="Email"></span>
+    </div>
+   
+    <div class="form-group">
+        <label asp-for="Password">Password</label>
+        <input type="password" class="form-control" asp-for="Password">
+        <span class="text-danger" asp-validation-for="Password"></span>
+    </div>
+   
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
